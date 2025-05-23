@@ -1,2 +1,2 @@
-# mot
-French phonetic system
+# Mot - French phonetic system
+
