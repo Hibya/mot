@@ -80,8 +80,8 @@
 | Arzel G.L      |
 | Hibya - Jarod R. |
 | Kaiji - Kevin P. |
-| Gyromancy -       |
-| Mim -            |
-| imsupposedto -   |
+| Gyromancy       |
+| Mimsynth            |
+| imsupposedto   |
 
 
